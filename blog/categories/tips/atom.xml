@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Sometimes Geek, Sometimes Worker]]></title>
-  <link href="http://jintai420.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Tips | Sometimes Geek, Sometimes Worker]]></title>
+  <link href="http://jintai420.github.io/blog/categories/tips/atom.xml" rel="self"/>
   <link href="http://jintai420.github.io/"/>
   <updated>2013-12-07T10:38:25+07:00</updated>
   <id>http://jintai420.github.io/</id>
@@ -55,23 +55,6 @@ fオプションを使用すると、現在のマスタとの差分を無視し�
 <li><a href="http://pcottle.github.io/learnGitBranching/">LearnGitBranching</a></li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[子どもかわいい]]></title>
-    <link href="http://jintai420.github.io/blog/2013/12/03/title/"/>
-    <updated>2013-12-03T21:07:46+07:00</updated>
-    <id>http://jintai420.github.io/blog/2013/12/03/title</id>
-    <content type="html"><![CDATA[<p>かわいい・・・ <br/>
-思わず、笑ってしまいました。</p>
-
-<p><img src="http://s3-ec.buzzfed.com/static/2013-11/enhanced/webdr06/22/15/anigif_enhanced-buzz-5113-1385152861-4.gif" alt="" /></p>
-
-<p>↑こういう画像を見ると、親になるのも悪くないなーと思ってしまいますね。</p>
-
-<p>詳細はこちらです
-<a href="http://www.buzzfeed.com/mikespohr/what-no-one-tells-you-about-becoming-a-parent">31 Things No One Tells You About Becoming A Parent</a></p>
 ]]></content>
   </entry>
   

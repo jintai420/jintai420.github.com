@@ -4,13 +4,76 @@
   <title><![CDATA[E & J]]></title>
   <link href="http://jintai420.github.io/atom.xml" rel="self"/>
   <link href="http://jintai420.github.io/"/>
-  <updated>2014-01-20T12:54:54+07:00</updated>
+  <updated>2014-01-20T14:44:29+07:00</updated>
   <id>http://jintai420.github.io/</id>
   <author>
     <name><![CDATA[jintai420]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ターミナル設定めも]]></title>
+    <link href="http://jintai420.github.io/blog/2014/01/20/title2/"/>
+    <updated>2014-01-20T14:29:31+07:00</updated>
+    <id>http://jintai420.github.io/blog/2014/01/20/title2</id>
+    <content type="html"><![CDATA[<p>ターミナルでlsコマンドを打った時、Linuxみたいにフォルダやファイルごとに色がつくようにしてみた。</p>
+
+<p>↓結果はこちら
+<img src="http://jintai420.github.io/images/terminal01.png" alt="terminal01" /></p>
+
+<p>やり方は、ホームにある<strong>.bash-profile(PATH: ~/.bash_profile)</strong>に以下の文を追加するだけ</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>export CLICOLOR=1
+</span><span class='line'>export LSCOLORS=ExFxCxDxBxegedabagacad</span></code></pre></td></tr></table></div></figure>
+
+
+<h1>参照URL</h1>
+
+<p><a href="http://cafe-d.net/2011/10/-linux.html">マックでターミナルのテキスト色をLinux風に変更</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Emacs導入メモ]]></title>
+    <link href="http://jintai420.github.io/blog/2014/01/20/title/"/>
+    <updated>2014-01-20T14:04:00+07:00</updated>
+    <id>http://jintai420.github.io/blog/2014/01/20/title</id>
+    <content type="html"><![CDATA[<p>手持ちのMacに初めてEmacsを導入してみたので、メモ
+現在のEmacsの最新バージョンは24.3。
+あとは以下のコマンドを実行するだけで、導入できます。</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>curl -O http://ftp.gnu.org/pub/gnu/emacs/emacs-24.3.tar.gz
+</span><span class='line'>tar xvfz emacs-24.3.tar.gz
+</span><span class='line'>cd emacs-24.3
+</span><span class='line'>./configure --with-ns --without-x
+</span><span class='line'>make
+</span><span class='line'>make install
+</span><span class='line'>open nextstep/Emacs.app</span></code></pre></td></tr></table></div></figure>
+
+
+<p></p>
+
+<p>↓ターミナルで導入するのが面倒くさい人はこっち</p>
+
+<p><a href="http://emacsformacosx.com/">Emacs For Mac OS X</a></p>
+
+<h1>参照URL</h1>
+
+<p><a href="http://blog.be-open.net/emacs/emacs-mac-osx-lion-install/">EmacsをMac OSX Lionにインストール</a></p>
+
+<p><a href="http://sakito.jp/emacs/emacs23.html#id5">Emacs23 (Cocoa Emacs) 入門から中毒まで</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[最近のお気に入り作業用BGM（東方）]]></title>

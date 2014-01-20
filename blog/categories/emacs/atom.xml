@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: EMACS | E & J]]></title>
+  <link href="http://jintai420.github.io/blog/categories/emacs/atom.xml" rel="self"/>
+  <link href="http://jintai420.github.io/"/>
+  <updated>2014-01-20T14:44:29+07:00</updated>
+  <id>http://jintai420.github.io/</id>
+  <author>
+    <name><![CDATA[jintai420]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Emacs導入メモ]]></title>
+    <link href="http://jintai420.github.io/blog/2014/01/20/title/"/>
+    <updated>2014-01-20T14:04:00+07:00</updated>
+    <id>http://jintai420.github.io/blog/2014/01/20/title</id>
+    <content type="html"><![CDATA[<p>手持ちのMacに初めてEmacsを導入してみたので、メモ
+現在のEmacsの最新バージョンは24.3。
+あとは以下のコマンドを実行するだけで、導入できます。</p>
+
+<p><code>
+curl -O http://ftp.gnu.org/pub/gnu/emacs/emacs-24.3.tar.gz
+tar xvfz emacs-24.3.tar.gz
+cd emacs-24.3
+./configure --with-ns --without-x
+make
+make install
+open nextstep/Emacs.app
+</code></p>
+
+<p>↓ターミナルで導入するのが面倒くさい人はこっち</p>
+
+<p><a href="http://emacsformacosx.com/">Emacs For Mac OS X</a></p>
+
+<h1>参照URL</h1>
+
+<p><a href="http://blog.be-open.net/emacs/emacs-mac-osx-lion-install/">EmacsをMac OSX Lionにインストール</a></p>
+
+<p><a href="http://sakito.jp/emacs/emacs23.html#id5">Emacs23 (Cocoa Emacs) 入門から中毒まで</a></p>
+]]></content>
+  </entry>
+  
+</feed>

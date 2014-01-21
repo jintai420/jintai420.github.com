@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: COOK | E & J]]></title>
+  <link href="http://jintai420.github.io/blog/categories/cook/atom.xml" rel="self"/>
+  <link href="http://jintai420.github.io/"/>
+  <updated>2014-01-21T12:27:54+07:00</updated>
+  <id>http://jintai420.github.io/</id>
+  <author>
+    <name><![CDATA[jintai420]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[海上自衛隊のレシピページ]]></title>
+    <link href="http://jintai420.github.io/blog/2014/01/21/title2/"/>
+    <updated>2014-01-21T12:17:41+07:00</updated>
+    <id>http://jintai420.github.io/blog/2014/01/21/title2</id>
+    <content type="html"><![CDATA[<p>海上自衛隊のレシピがとても充実していると聞いたので、調べてみたら本当に充実してた。</p>
+
+<p>↓カレーだけでもこんなにあります。</p>
+
+<p><img src="/images/recipe01.png" alt="recipe01" /></p>
+
+<p>↓元リンク</p>
+
+<p><a href="http://www.mod.go.jp/msdf/formal/family/recipe/menu/today/index.html">海上自衛隊のレシピページ</a></p>
+]]></content>
+  </entry>
+  
+</feed>

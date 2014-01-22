@@ -4,7 +4,7 @@
   <title><![CDATA[Category: JPN | E & J]]></title>
   <link href="http://jintai420.github.io/blog/categories/jpn/atom.xml" rel="self"/>
   <link href="http://jintai420.github.io/"/>
-  <updated>2014-01-22T19:47:33+07:00</updated>
+  <updated>2014-01-22T20:05:43+07:00</updated>
   <id>http://jintai420.github.io/</id>
   <author>
     <name><![CDATA[jintai420]]></name>
@@ -12,6 +12,51 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[柚子こしょうのペペロンチーノ]]></title>
+    <link href="http://jintai420.github.io/blog/2014/01/22/title4/"/>
+    <updated>2014-01-22T19:49:45+07:00</updated>
+    <id>http://jintai420.github.io/blog/2014/01/22/title4</id>
+    <content type="html"><![CDATA[<p>美味しそうなので、今度日本に帰ったときにでも作ってみようと思う。</p>
+
+<p><img src="/images/aglio4_wm.jpg" alt="aglio4_wm" /></p>
+
+<p><a href="http://www.bellalimento.com/2010/01/31/spaghetti-aglio-olio-e-peperoncino-spaghetti-wgarlic-oil-chili-peppers/">Spaghetti Aglio Olio e Peperoncino</a></p>
+
+<p>↓レシピはこちら</p>
+
+<blockquote><p>ゆずペペロンチーノ （2人分）</p>
+
+<p>・スパゲッティ（乾、1.6mm）160g</p>
+
+<p>・にんにく5かけ</p>
+
+<p>・顆粒チキンスープの素小さじ2</p>
+
+<p>・柚子こしょう（市販）小さじ1</p>
+
+<p>・クレソン2本</p>
+
+<p>1.なべに湯を沸かしスパゲッティをゆでる。</p>
+
+<p>2.にんにくは木べらをのせてたたきつぶす。</p>
+
+<p>3.フライパンにオリーブ油カップ1/4とにんにくを入れて
+弱火にかける。にんにくの角が薄く色づくまで、3分間程
+じっくりいため、いったん火を止めておく。</p>
+
+<p>4.スパゲッティのゆで湯からカップ1/2を取り分け、チキン
+スープの素、柚子こしょうを混ぜておく。</p>
+
+<p>5.スパゲッティの湯をきり、3のフライパンに加えて強火に
+かける。4も加えてしっかりと混ぜ、皿に盛りクレソンを飾る。</p></blockquote>
+
+<p>↓元サイトはこちら</p>
+
+<p><a href="http://oryouri.2chblog.jp/archives/8225259.html">「柚子こしょうのペペロンチーノ」普通のペペロンチーノより美味しくて これから定番になりそうです。</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[幼き勇者からの挑戦状]]></title>
@@ -91,29 +136,6 @@
 
 
 <p>なにこれこわい</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[ターミナル設定めも]]></title>
-    <link href="http://jintai420.github.io/blog/2014/01/20/title2/"/>
-    <updated>2014-01-20T14:29:31+07:00</updated>
-    <id>http://jintai420.github.io/blog/2014/01/20/title2</id>
-    <content type="html"><![CDATA[<p>ターミナルでlsコマンドを打った時、Linuxみたいにフォルダやファイルごとに色がつくようにしてみた。</p>
-
-<p>↓結果はこちら
-<img src="/images/terminal01.png" alt="terminal01" /></p>
-
-<p>やり方は、ホームにある<strong>.bash-profile(PATH: ~/.bash_profile)</strong>に以下の文を追加するだけ</p>
-
-<p><code>
-export CLICOLOR=1
-export LSCOLORS=ExFxCxDxBxegedabagacad
-</code></p>
-
-<h1>参照URL</h1>
-
-<p><a href="http://cafe-d.net/2011/10/-linux.html">マックでターミナルのテキスト色をLinux風に変更</a></p>
 ]]></content>
   </entry>
   

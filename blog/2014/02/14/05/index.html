@@ -1,0 +1,155 @@
+
+<!DOCTYPE HTML>
+<html lang="en-GB">
+<head>
+	<meta charset="utf-8">
+	<title>How to slove the problem about VMware easy install  | E & J</title>
+
+	<meta name="author" content="jintai420">
+
+<meta name="description" content="When I tried to install Ubuntu 12.04 on Vware Fusion, met the problem, which is that VMware said the below text. vmware easy install please wait! &hellip;"> <meta name="keywords" content="">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<link href="/atom.xml" rel="alternate" title="E & J" type="application/atom+xml">
+	<link rel="canonical" href="">
+	<link href="/favicon.png" rel="shortcut icon">
+	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	
+
+</head>
+
+
+
+<body>
+	<header id="header" class="inner"><h1><a href="/">E & J</a></h1>
+<span class="tagline">A blogging for lang and IT.</span>
+<!-- <nav id="main-nav"><ul>
+	<li><a href="/about">About</a></li>
+	<li><a href="/archives">Archives</a></li>
+	<li><a href="/contact">Contact</a></li>
+</ul>
+</nav> -->
+<!-- <nav id="mobile-nav"> -->
+<!-- 	<div class="alignleft menu"> -->
+<!-- 		<a class="button">Menu</a> -->
+<!-- 		<div class="container"><ul>
+	<li><a href="/about">About</a></li>
+	<li><a href="/archives">Archives</a></li>
+	<li><a href="/contact">Contact</a></li>
+</ul>
+</div> -->
+<!-- 	</div> -->
+<!-- </nav> -->
+
+
+</header>
+
+	<div id="content" class="inner"><article class="post">
+	<header>
+		<h2 class="title">How to Slove the Problem About VMware Easy Install</h2>
+		<div class="meta date">
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-02-14T17:04:16+07:00" pubdate data-updated="true">Feb 14<span>th</span>, 2014</time></div>
+	</header>
+	<div class="entry-content"><p>When I tried to install Ubuntu 12.04 on Vware Fusion, met the problem, which is that VMware said the below text.</p>
+
+<blockquote><p>vmware easy install</p>
+
+<p>please wait! vmware tools is currently being installed on your system. depending on
+the version of ubuntu you are installing. you may login in below and use the system during the installation. otherwise, please wait for the graphical environment to lanuch.</p>
+
+<p>Thank you.</p></blockquote>
+
+<p>Then, I found the way to solve this problem.
+I write down as memo below.</p>
+
+<ol>
+<li><p>Login by typing youer username and password.</p></li>
+<li><p>Restore three files which names are &ldquo;/etc/issue&rdquo;, &ldquo;/etc/rc.local&rdquo; ,&ldquo;/etc/init/lightdm.conf&rdquo;. Just type below commans.</p></li>
+</ol>
+
+
+<p><code><br>
+sudo mv /etc/issue.backup /etc/issue<br>
+sudo mv /etc/rc.local.backup /etc/rc.local<br>
+sudo mv /opt/vmware-tools-installer/lightdm.conf /etc/init<br>
+sudo reboot
+</code></p>
+
+<p>After reboot, my Ubuntu is availavle.</p>
+
+<p>↓ References</p>
+
+<p><a href="http://askubuntu.com/questions/285305/ubuntu-12-10-vmware-tools-installing-takes-for-ever">ubuntu 12.10 vmware tools installing takes for ever</a></p>
+
+<p><a href="http://askubuntu.com/questions/126229/12-04-stuck-at-vmware-easy-install">12.04 Stuck at &lsquo;VMware easy install</a></p>
+</div>
+
+</article>
+
+	
+	<div class="share">
+	  <!-- <ul> -->
+	  <!--   <li>
+  <a href="https://twitter.com/intent/tweet?text=How to slove the problem about VMware easy install by @&url=http://jintai420.github.io/blog/2014/02/14/05/" title="Share How to slove the problem about VMware easy install on Twitter">
+    <img src="/images/social/twitter.png" />
+  </a>
+</li>
+ -->
+	  <!--   <li>
+  <a href="https://www.facebook.com/sharer.php?u=http://jintai420.github.io/blog/2014/02/14/05/" title="Share How to slove the problem about VMware easy install on Facebook">
+    <img src="/images/social/facebook.png" />
+  </a>
+</li>
+ -->
+	  <!--   <li>
+  <a href="https://plus.google.com/share?url=http://jintai420.github.io/blog/2014/02/14/05/" title="Share How to slove the problem about VMware easy install on Google Plus">
+    <img src="/images/social/google.png" />
+  </a>
+</li>
+ -->
+	  <!-- </ul> -->
+	</div>
+
+
+
+</div>
+	<footer id="footer" class="inner"><br>
+<br>
+<br>
+<br>
+&copy; 2014
+
+    jintai420
+
+</footer>
+	<script src="/javascripts/slash.js"></script>
+<script src="/javascripts/hyphenator.js"></script>
+
+
+
+
+
+
+
+</body>
+<script>
+  $(document).ready(function() {
+  // Make images center
+  $('p:has(img)').css('text-align', 'center');
+  });
+</script>
+</html>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Ubuntu | E & J]]></title>
+  <link href="http://jintai420.github.io/blog/categories/ubuntu/atom.xml" rel="self"/>
+  <link href="http://jintai420.github.io/"/>
+  <updated>2014-02-14T17:46:19+07:00</updated>
+  <id>http://jintai420.github.io/</id>
+  <author>
+    <name><![CDATA[jintai420]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[How to slove the problem about VMware easy install]]></title>
+    <link href="http://jintai420.github.io/blog/2014/02/14/05/"/>
+    <updated>2014-02-14T17:04:16+07:00</updated>
+    <id>http://jintai420.github.io/blog/2014/02/14/05</id>
+    <content type="html"><![CDATA[<p>When I tried to install Ubuntu 12.04 on Vware Fusion, met the problem, which is that VMware said the below text.</p>
+
+<blockquote><p>vmware easy install</p>
+
+<p>please wait! vmware tools is currently being installed on your system. depending on
+the version of ubuntu you are installing. you may login in below and use the system during the installation. otherwise, please wait for the graphical environment to lanuch.</p>
+
+<p>Thank you.</p></blockquote>
+
+<p>Then, I found the way to solve this problem.
+I write down as memo below.</p>
+
+<ol>
+<li><p>Login by typing youer username and password.</p></li>
+<li><p>Restore three files which names are &ldquo;/etc/issue&rdquo;, &ldquo;/etc/rc.local&rdquo; ,&ldquo;/etc/init/lightdm.conf&rdquo;. Just type below commans.</p></li>
+</ol>
+
+
+<p><code><br>
+sudo mv /etc/issue.backup /etc/issue<br>
+sudo mv /etc/rc.local.backup /etc/rc.local<br>
+sudo mv /opt/vmware-tools-installer/lightdm.conf /etc/init<br>
+sudo reboot
+</code></p>
+
+<p>After reboot, my Ubuntu is availavle.</p>
+
+<p>↓ References</p>
+
+<p><a href="http://askubuntu.com/questions/285305/ubuntu-12-10-vmware-tools-installing-takes-for-ever">ubuntu 12.10 vmware tools installing takes for ever</a></p>
+
+<p><a href="http://askubuntu.com/questions/126229/12-04-stuck-at-vmware-easy-install">12.04 Stuck at &lsquo;VMware easy install</a></p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -7,7 +7,7 @@
 
 	<meta name="author" content="jintai420">
 
-<meta name="description" content="数日前に検討会をした。そこで気がついたことだけど、初心者になればなるほど、頑張りすぎているなということに気がついた。麻雀があまり上手でない人はどんなにボロボロの手でも、相手から何手遅れていようとも関係なくあがりに向かって突っ込んでいく。そして、放銃する。結果として負ける。 &hellip;"> <meta name="keywords" content="">
+<meta name="description" content="When I tried to install Ubuntu 12.04 on Vware Fusion, met the problem, which is that VMware said the below text. vmware easy install please wait! &hellip;"> <meta name="keywords" content="">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
@@ -48,6 +48,115 @@
 </header>
 
 	<div id="content" class="inner">
+
+
+    <article class="post">
+	<header>
+		<h2 class="title">
+			
+			<a href="/blog/2014/02/14/05/">
+			
+				How to Slove the Problem About VMware Easy Install</a>
+		</h2>
+		<div class="meta date">
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-02-14T17:04:16+07:00" pubdate data-updated="true">Feb 14<span>th</span>, 2014</time></div>
+	</header>
+	<div class="entry-content">
+		<p>When I tried to install Ubuntu 12.04 on Vware Fusion, met the problem, which is that VMware said the below text.</p>
+
+<blockquote><p>vmware easy install</p>
+
+<p>please wait! vmware tools is currently being installed on your system. depending on
+the version of ubuntu you are installing. you may login in below and use the system during the installation. otherwise, please wait for the graphical environment to lanuch.</p>
+
+<p>Thank you.</p></blockquote>
+
+<p>Then, I found the way to solve this problem.
+I write down as memo below.</p>
+
+<ol>
+<li><p>Login by typing youer username and password.</p></li>
+<li><p>Restore three files which names are &ldquo;/etc/issue&rdquo;, &ldquo;/etc/rc.local&rdquo; ,&ldquo;/etc/init/lightdm.conf&rdquo;. Just type below commans.</p></li>
+</ol>
+
+
+<p><code><br>
+sudo mv /etc/issue.backup /etc/issue<br>
+sudo mv /etc/rc.local.backup /etc/rc.local<br>
+sudo mv /opt/vmware-tools-installer/lightdm.conf /etc/init<br>
+sudo reboot
+</code></p>
+
+<p>After reboot, my Ubuntu is availavle.</p>
+
+<p>↓ References</p>
+
+<p><a href="http://askubuntu.com/questions/285305/ubuntu-12-10-vmware-tools-installing-takes-for-ever">ubuntu 12.10 vmware tools installing takes for ever</a></p>
+
+<p><a href="http://askubuntu.com/questions/126229/12-04-stuck-at-vmware-easy-install">12.04 Stuck at &lsquo;VMware easy install</a></p>
+
+		
+		
+	</div>
+
+</article>
+
+
+    <article class="post">
+	<header>
+		<h2 class="title">
+			
+			<a href="/blog/2014/02/14/04/">
+			
+				一貫性の考え方</a>
+		</h2>
+		<div class="meta date">
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-02-14T17:04:11+07:00" pubdate data-updated="true">Feb 14<span>th</span>, 2014</time></div>
+	</header>
+	<div class="entry-content">
+		<p><strong>一貫性を保て</strong>という言葉、麻雀を打っていると１回は聞いたことがあると思います。一貫性を保っていい目標というのは本来１つだけで、「将来的に自分の順位を上げるために最適な行動をとる」という一点のみです。これ以外は状況に応じてコロコロ変わるものだと思っていい。</p>
+
+<p>局がスタートした最初のテーマは？もちろんあがることですよね。</p>
+
+<p>先制リーチが相手から入った・・・オリますよね。じゃあ、次。</p>
+
+<p>降りてたらたまたま聴牌した・・・リーチ？ダマ？</p>
+
+<p>中級者くらいまでの人がよく迷うシーンの１つとして、降りてたらたまたま聴牌した状況があると思うんです。こういったシーンでは一貫性が求められます。一貫性を保つにはその状況に対する細かい認識が必要です。この場合だと、オリにも２つの種類があることを理解してないといけない。</p>
+
+<p>「聴牌を崩してでも放銃を避ける徹底したオリ」と「放銃する可能性はやや残るけど、聴牌を意識したオリ」。特に尾を引くミスになりがちなのが「オリてるつもりだったのに聴牌したからとりあえずリーチして、相手に打った」系のミスですね。一貫性が崩れて軸がブレるから、次のミスに繋がりやすい。だから、一貫性を保つことでブレを防ぐ。</p>
+
+<p>一貫性を保つもう一つの目的・・・すなわち<strong>良好なメンタル状態の維持</strong>です。</p>
+
+<p>例えば、マンズの染め手に対して<strong>切れない</strong>とさっきは判断して止めたマンズ。だけど、今このマンズ１枚を切れば聴牌が取れる・・・<strong>そういう時はマンズを切って聴牌をとってはいけないんです</strong>。得点を削ってまで取る価値のある聴牌なのかどうなのか？最終的に自分は得するのか？大事なのはそこです。</p>
+
+		
+		
+	</div>
+
+</article>
 
 
     <article class="post">
@@ -425,115 +534,6 @@
 
 
 <p>なにこれこわい</p>
-
-		
-		
-	</div>
-
-</article>
-
-
-    <article class="post">
-	<header>
-		<h2 class="title">
-			
-			<a href="/blog/2014/01/20/title2/">
-			
-				ターミナル設定めも</a>
-		</h2>
-		<div class="meta date">
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-01-20T14:29:31+07:00" pubdate data-updated="true">Jan 20<span>th</span>, 2014</time></div>
-	</header>
-	<div class="entry-content">
-		<p>ターミナルでlsコマンドを打った時、Linuxみたいにフォルダやファイルごとに色がつくようにしてみた。</p>
-
-<p>↓結果はこちら
-<img src="/images/terminal01.png" alt="terminal01" /></p>
-
-<p>やり方は、ホームにある<strong>.bash-profile(PATH: ~/.bash_profile)</strong>に以下の文を追加するだけ</p>
-
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>export CLICOLOR=1
-</span><span class='line'>export LSCOLORS=ExFxCxDxBxegedabagacad</span></code></pre></td></tr></table></div></figure>
-
-
-<h1>参照URL</h1>
-
-<p><a href="http://cafe-d.net/2011/10/-linux.html">マックでターミナルのテキスト色をLinux風に変更</a></p>
-
-		
-		
-	</div>
-
-</article>
-
-
-    <article class="post">
-	<header>
-		<h2 class="title">
-			
-			<a href="/blog/2014/01/20/title/">
-			
-				Emacs導入メモ</a>
-		</h2>
-		<div class="meta date">
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-01-20T14:04:00+07:00" pubdate data-updated="true">Jan 20<span>th</span>, 2014</time></div>
-	</header>
-	<div class="entry-content">
-		<p>手持ちのMacに初めてEmacsを導入してみたので、メモ
-現在のEmacsの最新バージョンは24.3。
-あとは以下のコマンドを実行するだけで、導入できます。</p>
-
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>curl -O http://ftp.gnu.org/pub/gnu/emacs/emacs-24.3.tar.gz
-</span><span class='line'>tar xvfz emacs-24.3.tar.gz
-</span><span class='line'>cd emacs-24.3
-</span><span class='line'>./configure --with-ns --without-x
-</span><span class='line'>make
-</span><span class='line'>make install
-</span><span class='line'>open nextstep/Emacs.app</span></code></pre></td></tr></table></div></figure>
-
-
-<p></p>
-
-<p>↓ターミナルで導入するのが面倒くさい人はこっち</p>
-
-<p><a href="http://emacsformacosx.com/">Emacs For Mac OS X</a></p>
-
-<h1>参照URL</h1>
-
-<p><a href="http://blog.be-open.net/emacs/emacs-mac-osx-lion-install/">EmacsをMac OSX Lionにインストール</a></p>
-
-<p><a href="http://sakito.jp/emacs/emacs23.html#id5">Emacs23 (Cocoa Emacs) 入門から中毒まで</a></p>
 
 		
 		

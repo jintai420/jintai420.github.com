@@ -4,13 +4,67 @@
   <title><![CDATA[E & J]]></title>
   <link href="http://jintai420.github.io/atom.xml" rel="self"/>
   <link href="http://jintai420.github.io/"/>
-  <updated>2014-02-15T13:30:51+07:00</updated>
+  <updated>2014-02-17T19:01:07+07:00</updated>
   <id>http://jintai420.github.io/</id>
   <author>
     <name><![CDATA[jintai420]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[１年を通した旬の魚のレシピを紹介してるサイト]]></title>
+    <link href="http://jintai420.github.io/blog/2014/02/17/03/"/>
+    <updated>2014-02-17T18:51:04+07:00</updated>
+    <id>http://jintai420.github.io/blog/2014/02/17/03</id>
+    <content type="html"><![CDATA[<p><img src="http://jintai420.github.io/images/cap014.jpg" alt="cap014" /></p>
+
+<p><a href="http://www.fish-cooking.com/">釣魚料理レシピデータベース</a></p>
+
+<p><img src="http://jintai420.github.io/images/cap015.jpg" alt="cap015" /></p>
+
+<p><a href="http://www.toshin.co.jp/recipe/00_02/index.html#top">東信水産 特鮮レシピ</a></p>
+
+<p>たまたま魚料理のレシピを探していたら見つけたので、ここに記しておきます。<br>
+ぶりのみぞれ鍋とか美味しそうですね。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[守備の考え方]]></title>
+    <link href="http://jintai420.github.io/blog/2014/02/17/02/"/>
+    <updated>2014-02-17T18:38:06+07:00</updated>
+    <id>http://jintai420.github.io/blog/2014/02/17/02</id>
+    <content type="html"><![CDATA[<p>状況を見る。<br>
+打ってはいけないシーンなのか？<br>
+打っていい人と打ってはいけない人を確かめる。<br>
+打点はどのくらいありそうか？<br></p>
+
+<p>放銃を減らすこと自体にそこまで強い意味は無い。<br>
+打った方が得なら、打ってもいいんです。<br>
+だけど、降っていいかどうかをしっかりと考えないといけない。<br>
+降ってはいけない・触れないと思ったら、迷わず降りるか当たりそうな牌を止めないといけない。</p>
+
+<p>そうやって押し引きのラインが決まるんです。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[勝つイメージの捉え方]]></title>
+    <link href="http://jintai420.github.io/blog/2014/02/17/01/"/>
+    <updated>2014-02-17T18:38:03+07:00</updated>
+    <id>http://jintai420.github.io/blog/2014/02/17/01</id>
+    <content type="html"><![CDATA[<p><a href="http://jp.techcrunch.com/2011/03/22/20110319little-bets/">大きく賭けるな。小さく賭けて10億ドルのアイディアに変えろ</a></p>
+
+<p>全く麻雀に関係ない記事だけど、<strong>小さく賭ける</strong>というワードに麻雀やポーカーとの共通性を感じたのでちょっと思ったことを書いてみる。</p>
+
+<p>ポーカーには<a href="http://www.pokerdou.com/tournament/smallballlongball/">スモールボールとロングボール</a>という考え方がある。これは一発逆転を狙うのではなくて、コツコツと小さな勝ちを積み上げることで最終的な勝利を得るという考え方だ。ギャンブル全般に言えることだけど、ギャンブルの対象になるゲームは大抵、プレイヤー同士の実力差があっても短期的に見れば勝率があやふやになるという性質を持っていることが多い（それ故に万人が楽しめるという捉え方もできるが）。だけど、勝ち組に入ろうとすると話は少し変わってくる。トータルで勝とうと思えば、確率的に優位な選択を常に選び続けないといけない。それでも負けるときは負ける。だけど、常に一発逆転ホームランを狙うようなプレイヤーは決して勝ち組にはなれない。ある程度の熟練したプレイヤーなら、小さく勝利を積み重ねるという発想に行きつくのは当然のことなのだ。</p>
+
+<p>コツコツ勝利を積み重ねるとは、文字通り各ゲームで小さな勝ちを広い続けることではない。正確に言えば、ある特定の期間において大勝ちと負けを繰り返す。その期間内でのトータルがプラスになるようにプレイすることが大事なのだ。つまり、ツイてる時はちゃんと勝ちを拾わないといけない。３連勝、４連勝するイメージを持ってほしい。そして、負けるときは小さく負けるように手を尽くす・・・。</p>
+
+<p>あと、実力差に対しては僕はこう捉えている。実力差とは<strong>どれくらいツイていれば、その面子の中で勝ちを拾えるか</strong>。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[たこのグラタン]]></title>
@@ -468,81 +522,6 @@ sudo reboot
 <p>最後にカオカームー。とろとろの角煮と角煮を煮込んでいるスープをご飯にかけたもの。もちろん辛くない！頼めば煮玉子もつけてくれる。これは４０〜５０バーツくらい。肉好きにはたまらないメニューだと思う。</p>
 
 <p>他にも一杯あるけど、メジャーどころはこんなものかな。また気が向いたら紹介します。次はデザートとか書こうかな。ではー</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[異世界食堂]]></title>
-    <link href="http://jintai420.github.io/blog/2014/01/06/title/"/>
-    <updated>2014-01-06T13:53:01+07:00</updated>
-    <id>http://jintai420.github.io/blog/2014/01/06/title</id>
-    <content type="html"><![CDATA[<p>やっぱりご飯が好きなのか、異世界食堂という小説に惹かれた。</p>
-
-<p><a href="http://ncode.syosetu.com/n1701bm/">異世界食堂</a></p>
-
-<p>元ネタから派生したこちらも面白い</p>
-
-<p><a href="http://rss.r401.net/yaruo/site_list/archive_list/8393">異世界食堂できない夫</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[リベラルアーツってなんや？]]></title>
-    <link href="http://jintai420.github.io/blog/2013/12/29/aaaa/"/>
-    <updated>2013-12-29T05:28:22+07:00</updated>
-    <id>http://jintai420.github.io/blog/2013/12/29/aaaa</id>
-    <content type="html"><![CDATA[<p>僕の好きな話で、「これは水です」という話がある。</p>
-
-<p><a href="http://moreintelligentlife.com/story/david-foster-wallace-in-his-own-words">This Is Water</a></p>
-
-<p>何が言いたいのかというと、他人同士がそもそもわかり合うことは難しい。けど、リベラルアーツやらなんやらを使って、想像力を働かせて相手に接することができれば、少しは日常生活が良くなるよ。っていう話だと、僕は解釈している。</p>
-
-<p>確かに理屈としては、すごく正しい。だけど、これ、頭でわかっていても、いざ実際に実行に移すとなると、すごく難しい。昔から身についている生活習慣っていうのは、意外と根が深いもので、それが身近な親友や恋人の何気ない振る舞いにさえ苛立ちを覚えることさえある。ましてや、さして興味を覚えない他人であるならば、尚更だ。紹介した話のいい所は、働き出すと時間も精神もだんだん擦り切れていくよ。って話をちゃんとしている部分にあると思う。余裕がある内は誰でも、他人にやさしくできる。「余裕が無い時に人は試されてる」という一言が暗に含まれている。この話は少し、ハンロンの剃刀の話に似ている部分がある。<a href="http://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%83%AD%E3%83%B3%E3%81%AE%E5%89%83%E5%88%80">ハンロンの剃刀</a>。</p>
-
-<p>結局のところ、余裕のある・知的な人というのは、こういう地道な相手に想像力を使う部分から来ているのかもしれない。そして、想像力を使うには元となるタネやストーリーが必要だ。どういう風に想像すればいいか理解できていないのであるならば、それこそ考えるだけムダだと思う。大抵の大人達がバカの一つ覚えみたいに「考えろ」とか「想像しろ」とかいうけど、手持ちの発想のネタが同じ視点に立っていないという、想像が欠けている気がする。パターンの蓄積なしの分析、仮説なしの実験および証明に何の意味があるのか。</p>
-
-<p>話を戻そう。上で述べた生活習慣のすれ違いを防ぐ一つの対策手段として、マナーが必要なのだろうと思う。ただ、マナーは強要すべき点ではないと僕は思う。マナーを守るというのは、あくまで自衛的な要因の方が強いし、法的な拘束力がない。あと、守るべき意味がわからないマナーだってたくさんある。マナーを単純に守るだけじゃなくて、そのマナーを守る意味を理解する必要があると思う。逆に言えば、理解できないマナーは守らなくて良いと、僕は考えている。電車やバスの中で携帯電話を使ってはいけない、っていうのは最早意味がわからないし。</p>
-
-<p>比較対象をたくさん知って、想像のタネにすること。守るべきルール、マナーを選定すること。それを如何に日常生活の中で活用できることが大事なんではないかなーと思った。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[日本語と英語を同時に書いてみる]]></title>
-    <link href="http://jintai420.github.io/blog/2013/12/28/aaa/"/>
-    <updated>2013-12-28T19:03:59+07:00</updated>
-    <id>http://jintai420.github.io/blog/2013/12/28/aaa</id>
-    <content type="html"><![CDATA[<p>ふと日本人が日本語で外国人向けに発信してるサイトが無いのではないか？と思い、試してみることにした。</p>
-
-<p>An idea poped on my head. It&rsquo;s that no Japanese explain Japan words to Japanese learner on blogs, as far as I know. Then, I try it.</p>
-
-<p>語学において大事なのは、単語とフレーズ、発音、その後に文法が続くと思っている。</p>
-
-<p>I think important points about learning languages, which are words, phrase, pronunciation and grammar in line.</p>
-
-<p>単語とフレーズは木で言えば、幹だ。文法がわからなくても、最悪単語さえわかれば、相手に伝えることが可能である。</p>
-
-<p>Words and phrase are such a trunk of tree. If you didn&rsquo;t know how to say it on grammer, Using words makes it possible to let somebody know what you want to say.</p>
-
-<p>だから、ここではパートごとに分けて、日本語の単語の解説 をしようと思っている。</p>
-
-<p>So, in this blog, I&rsquo;ll try to explain some Japanese words to you at each parts.</p>
-
-<p>では、今日の単語！</p>
-
-<p>Today&rsquo;s word!</p>
-
-<p>ででん！ DEDEN!!</p>
-
-<p><strong>ひさしぶり！</strong></p>
-
-<p><strong>Long time no see!</strong>  or  <strong>It&rsquo;s been forever!</strong></p>
-
-<p>たまにしか合わない友達に使うと喜ばれるよ！</p>
-
-<p>This word makes your freinds who you meet once or twice in a year.</p>
-
-<p>じゃーね。 Bye~</p>
 ]]></content>
   </entry>
   

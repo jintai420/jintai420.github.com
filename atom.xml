@@ -4,13 +4,72 @@
   <title><![CDATA[E & J]]></title>
   <link href="http://jintai420.github.io/atom.xml" rel="self"/>
   <link href="http://jintai420.github.io/"/>
-  <updated>2014-03-01T08:56:18+07:00</updated>
+  <updated>2014-03-08T10:01:28+07:00</updated>
   <id>http://jintai420.github.io/</id>
   <author>
     <name><![CDATA[jintai420]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[9 Tips Memo For Poker]]></title>
+    <link href="http://jintai420.github.io/blog/2014/03/08/02/"/>
+    <updated>2014-03-08T09:04:01+07:00</updated>
+    <id>http://jintai420.github.io/blog/2014/03/08/02</id>
+    <content type="html"><![CDATA[<ol>
+<li><p>I should be All-In when I&rsquo;m sure that my hunds are stronger than opponents&rsquo;s.</p></li>
+<li><p>Don&rsquo;t be confused when opponents raise or re-raise. When it comes to this case, check my stack, and if it costs higher beyond the expectation, should be fold.</p></li>
+<li><p>Don&rsquo;t get mad about opponents who keeps raise with lots tips. Don&rsquo;t mind. They will face accidental situations erally or late.</p></li>
+<li><p>First of all, think opponents hands. If I thought only my own hands, in most cases, I would be defeated. In such a case, sometimes, I get win, but it&rsquo;s just lucky.</p></li>
+<li><p>When opponents raise with big stack at the river, commonly, their hands are not blaff.</p></li>
+<li><p>Take memos for opponents characteristics.</p></li>
+<li><p>Whenevere playing with any type hands, the most important thing is to keep pot size small for damage controll, except that my hands are nuts.</p></li>
+<li><p>Drawing hands is for hitting &ldquo;Home Run&rdquo;. Don,t forget this point. For hitting &ldquo;Home Run&rdquo;, I can spent 10% of stack more or less.</p></li>
+<li><p>Reading is the most important and essential skill.Ovserving opponents is essence to get win in poker.</p></li>
+</ol>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[データ解析]]></title>
+    <link href="http://jintai420.github.io/blog/2014/03/08/01/"/>
+    <updated>2014-03-08T09:03:57+07:00</updated>
+    <id>http://jintai420.github.io/blog/2014/03/08/01</id>
+    <content type="html"><![CDATA[<p><a href="http://jintai420.github.io/images/362539MqC_o.png" target="_blank">
+<img src="http://jintai420.github.io/images/362539MqC_o.png" alt="362539MqC_o" width=500 height=350></p>
+
+<p><a href="http://jintai420.github.io/images/imori.png" target="_blank">
+<img src="http://jintai420.github.io/images/imori.png" alt="imori" width=500 height=350></p>
+
+<p>たまには自分のデータ解析でも。<br/>
+上のデータが９段の人で、下のデータが昔ぼくが鳳凰卓で取ったデータです。</p>
+
+<p>基本的にあがり率は変わらない。<br/>
+打点はどちらかと言うと、ぼくの方がやや高い。<br/>
+これはぼくがしっかりとリーチを打てる手順を身につけているからだと思う。<br/>
+基本的にぼくは鳴きで牽制するタイプのように見えるけど、実際はリーチで仕留めるタイプの打ち手だから、こういう傾向がでるんだと思っている。<br/>
+リーチに関してはけっこう自信があって、門前手で押し込む系統の技術は鳳凰の平均レベルよりも上だとは思っている。</p>
+
+<p>欠点は防御面。というか、基本的にそこでしか差はない。
+なぜこの９段の人のデータを選択したのかと言うと、ぼくの打ち方とけっこうタイプが似ていると感じたからです。<br/>
+門前手のあがりはぼくの方がやや多いけど、鳴きの打点作りに関してはほぼ同じだと言える。<br/>
+あがり率もほぼ遜色ない。</p>
+
+<p>だけど、ぼくのデータは放銃率が１％ほど高い。<br/>
+あと、放銃素点も200点ほど高い。<br/>
+原因ははっきりしていて、ぼくが親に打ち込みすぎなのだと思う。<br/>
+あと、オリの技術が下手。<br/>
+形式テンパイを取るために無駄に危険な牌を通したり、親を蹴るために無茶をしたりするシーンが高段位の人に比べて目立ったように思う。  <br/>
+そういう無駄な放銃をすることで、自分の立場を悪くしてるケースが散見された。 <br/>
+あと、門前手が多い＝スピードで劣っているということなので、もう少し鳴き手を多くシフトして危険手をサクッとオリれるようにすれば、かなり安定したと思う。</p>
+
+<p>ここ最近の打ち方を自分でみる限り、防御面に関しては以前よりもずっと安定していると思う。<br/>
+その分、鳴きを少し減らしたりしていろいろ調整していたけど、今はけっこう良いバランスに仕上がってる気がする。<br/>
+もう少し時間と余裕がでてきたら、また鳳凰で打ってデータを取りたいと思う。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[麻雀における利益とコストの考え方]]></title>
@@ -441,42 +500,6 @@ sudo reboot
 <p><a href="http://askubuntu.com/questions/285305/ubuntu-12-10-vmware-tools-installing-takes-for-ever">ubuntu 12.10 vmware tools installing takes for ever</a></p>
 
 <p><a href="http://askubuntu.com/questions/126229/12-04-stuck-at-vmware-easy-install">12.04 Stuck at &lsquo;VMware easy install</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[一貫性の考え方]]></title>
-    <link href="http://jintai420.github.io/blog/2014/02/14/04/"/>
-    <updated>2014-02-14T17:04:11+07:00</updated>
-    <id>http://jintai420.github.io/blog/2014/02/14/04</id>
-    <content type="html"><![CDATA[<p><strong>一貫性を保て</strong>という言葉、麻雀を打っていると１回は聞いたことがあると思います。一貫性を保っていい目標というのは本来１つだけで、「将来的に自分の順位を上げるために最適な行動をとる」という一点のみです。これ以外は状況に応じてコロコロ変わるものだと思っていい。</p>
-
-<p>局がスタートした最初のテーマは？もちろんあがることですよね。</p>
-
-<p>先制リーチが相手から入った・・・オリますよね。じゃあ、次。</p>
-
-<p>降りてたらたまたま聴牌した・・・リーチ？ダマ？</p>
-
-<p>中級者くらいまでの人がよく迷うシーンの１つとして、降りてたらたまたま聴牌した状況があると思うんです。こういったシーンでは一貫性が求められます。一貫性を保つにはその状況に対する細かい認識が必要です。この場合だと、オリにも２つの種類があることを理解してないといけない。</p>
-
-<p>「聴牌を崩してでも放銃を避ける徹底したオリ」と「放銃する可能性はやや残るけど、聴牌を意識したオリ」。特に尾を引くミスになりがちなのが「オリてるつもりだったのに聴牌したからとりあえずリーチして、相手に打った」系のミスですね。一貫性が崩れて軸がブレるから、次のミスに繋がりやすい。だから、一貫性を保つことでブレを防ぐ。</p>
-
-<p>一貫性を保つもう一つの目的・・・すなわち<strong>良好なメンタル状態の維持</strong>です。</p>
-
-<p>例えば、マンズの染め手に対して<strong>切れない</strong>とさっきは判断して止めたマンズ。だけど、今このマンズ１枚を切れば聴牌が取れる・・・<strong>そういう時はマンズを切って聴牌をとってはいけないんです</strong>。得点を削ってまで取る価値のある聴牌なのかどうなのか？最終的に自分は得するのか？大事なのはそこです。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[無駄な頑張りを減らす]]></title>
-    <link href="http://jintai420.github.io/blog/2014/02/14/03/"/>
-    <updated>2014-02-14T14:55:00+07:00</updated>
-    <id>http://jintai420.github.io/blog/2014/02/14/03</id>
-    <content type="html"><![CDATA[<p>数日前に検討会をした。そこで気がついたことだけど、初心者になればなるほど、頑張りすぎているなということに気がついた。麻雀があまり上手でない人はどんなにボロボロの手でも、相手から何手遅れていようとも関係なくあがりに向かって突っ込んでいく。そして、放銃する。結果として負ける。</p>
-
-<p>ゲーム性から来るのもだけど、麻雀って粘るとか頑張るという言葉からはほど遠いゲームだと思う。ダメな手のときはひたすらオリて、勝てそうな手はアグレッシブに攻める。一言でいえば、押し引き。押し引きとはどのタイミングで引くかを判断すること。株で言えば、損切りのポイントを見極める行為に近い。そこにあるのは頑張りとは程遠い<strong>妥協</strong>という言葉だ。麻雀を打っているときは努力すればするほど、泥沼にハマっていく。（もちろん、打っていないときは検討や反省する努力は必要だが・・・）。</p>
-
-<p>自分が下手なときも例にもれず、よく突っ張って放銃していたように思う。そして打つ、負ける。挙句の果てにふてくされる。そういうことを繰り返して、だんだん引き際のコツを掴んでいく。そういう体に覚えこませる作業みたいな部分を見てると、麻雀ってスポーツに似てるなと思う。</p>
 ]]></content>
   </entry>
   

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: poker | E & J]]></title>
+  <title><![CDATA[Category: Poker | E & J]]></title>
   <link href="http://jintai420.github.io/blog/categories/poker/atom.xml" rel="self"/>
   <link href="http://jintai420.github.io/"/>
-  <updated>2014-03-08T10:04:22+07:00</updated>
+  <updated>2014-03-19T20:35:22+07:00</updated>
   <id>http://jintai420.github.io/</id>
   <author>
     <name><![CDATA[jintai420]]></name>
@@ -14,75 +14,118 @@
 
   
   <entry>
-    <title type="html"><![CDATA[9 Tips Memo For Poker]]></title>
-    <link href="http://jintai420.github.io/blog/2014/03/08/02/"/>
-    <updated>2014-03-08T09:04:01+07:00</updated>
-    <id>http://jintai420.github.io/blog/2014/03/08/02</id>
-    <content type="html"><![CDATA[<ol>
-<li><p>I should be All-In when I&rsquo;m sure that my hunds are stronger than opponents&rsquo;s.</p></li>
-<li><p>Don&rsquo;t be confused when opponents raise or re-raise. When it comes to this case, check my stack, and if it costs higher beyond the expectation, should be fold.</p></li>
-<li><p>Don&rsquo;t get mad about opponents who keeps raise with lots tips. Don&rsquo;t mind. They will face accidental situations erally or late.</p></li>
-<li><p>First of all, think opponents hands. If I thought only my own hands, in most cases, I would be defeated. In such a case, sometimes, I get win, but it&rsquo;s just lucky.</p></li>
-<li><p>When opponents raise with big stack at the river, commonly, their hands are not blaff.</p></li>
-<li><p>Take memos for opponents characteristics.</p></li>
-<li><p>Whenevere playing with any type hands, the most important thing is to keep pot size small for damage controll, except that my hands are nuts.</p></li>
-<li><p>Drawing hands is for hitting &ldquo;Home Run&rdquo;. Don,t forget this point. For hitting &ldquo;Home Run&rdquo;, I can spent 10% of stack more or less.</p></li>
-<li><p>Reading is the most important and essential skill.Ovserving opponents is essence to get win in poker.</p></li>
-</ol>
+    <title type="html"><![CDATA[Percentage of succeeding hands at Turn or River]]></title>
+    <link href="http://jintai420.github.io/blog/2014/03/19/02/"/>
+    <updated>2014-03-19T20:25:55+07:00</updated>
+    <id>http://jintai420.github.io/blog/2014/03/19/02</id>
+    <content type="html"><![CDATA[<p>Just memo about percentage of sucessfully making hands at Turn or River.</p>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[small ball theory]]></title>
-    <link href="http://jintai420.github.io/blog/2014/03/01/01/"/>
-    <updated>2014-03-01T08:18:38+07:00</updated>
-    <id>http://jintai420.github.io/blog/2014/03/01/01</id>
-    <content type="html"><![CDATA[<p>スモールボール理論がかなりタメになった面白かったので、メモ代わりに。<br/>
-これ見てると如何にレイズ、コール、チェックを状況を読んで行わないといけないと、痛感させられた・・・。<br/>
-確率通りにプレイしてるだけでは、確実に初心者レベル止まりだわ。</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th align="left">Hands </th>
+<th align="center">Outs </th>
+<th align="center">Turn + River</th>
+<th align="center">River Only</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td align="left">Set </td>
+<td align="center">2 </td>
+<td align="center">8.4 </td>
+<td align="center">4.3</td>
+</tr>
+<tr>
+<td></td>
+<td align="left">One Over </td>
+<td align="center">3 </td>
+<td align="center">12.5 </td>
+<td align="center">6.5</td>
+</tr>
+<tr>
+<td></td>
+<td align="left">ISD </td>
+<td align="center">4 </td>
+<td align="center">16.5 </td>
+<td align="center">8.7</td>
+</tr>
+<tr>
+<td></td>
+<td align="left">Two Overs </td>
+<td align="center">6 </td>
+<td align="center">24.1 </td>
+<td align="center">13.0</td>
+</tr>
+<tr>
+<td></td>
+<td align="left">One Over + ISD </td>
+<td align="center">6 </td>
+<td align="center">24.1 </td>
+<td align="center">13.0</td>
+</tr>
+<tr>
+<td></td>
+<td align="left">OESD </td>
+<td align="center">8 </td>
+<td align="center">31.5 </td>
+<td align="center">17.4 </td>
+</tr>
+<tr>
+<td></td>
+<td align="left">Two Over + ISD </td>
+<td align="center">10 </td>
+<td align="center">38.4 </td>
+<td align="center">17.4 </td>
+</tr>
+<tr>
+<td></td>
+<td align="left">One Over + OESD </td>
+<td align="center">11 </td>
+<td align="center">41.7 </td>
+<td align="center">23.9</td>
+</tr>
+<tr>
+<td></td>
+<td align="left">One Over + FD </td>
+<td align="center">12 </td>
+<td align="center">45.0 </td>
+<td align="center">26.1</td>
+</tr>
+<tr>
+<td></td>
+<td align="left">FD + ISD </td>
+<td align="center">12 </td>
+<td align="center">45.0 </td>
+<td align="center">26.1</td>
+</tr>
+<tr>
+<td></td>
+<td align="left">Two Over + FD </td>
+<td align="center">15 </td>
+<td align="center">54.1 </td>
+<td align="center">32.6</td>
+</tr>
+<tr>
+<td></td>
+<td align="left">OESD + FD </td>
+<td align="center">15 </td>
+<td align="center">54.1 </td>
+<td align="center">32.6</td>
+</tr>
+</tbody>
+</table>
 
-<p>(Daniel Negreanu&rsquo;s Small Ball 1)[<a href="http://d.hatena.ne.jp/shimadajp/20081117/p1">http://d.hatena.ne.jp/shimadajp/20081117/p1</a>]</p>
 
-<p>(Daniel Negreanu&rsquo;s Small Ball 2)[<a href="http://d.hatena.ne.jp/shimadajp/20090228/p1">http://d.hatena.ne.jp/shimadajp/20090228/p1</a>]</p>
+<p><strong>ISD : Inside Straight Draw </strong><br/>
+<strong>OESD : Open End Straight Draw</strong><br/>
+<strong>FD : Flash Draw</strong></p>
 
-<p>(Daniel Negreanu&rsquo;s Small Ball 3)[<a href="http://d.hatena.ne.jp/shimadajp/20090428/p1">http://d.hatena.ne.jp/shimadajp/20090428/p1</a>]</p>
+<h4>Reference</h4>
 
-<p>(Daniel Negreanu&rsquo;s Small Ball 4)[<a href="http://d.hatena.ne.jp/shimadajp/20090811/p1">http://d.hatena.ne.jp/shimadajp/20090811/p1</a>]</p>
-
-<p>(Daniel Negreanu&rsquo;s Small Ball 5)[<a href="http://d.hatena.ne.jp/shimadajp/20091027/p1">http://d.hatena.ne.jp/shimadajp/20091027/p1</a>]</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[一発屋にならない方法〜勝負に勝ちたいなら日記をつけよう〜]]></title>
-    <link href="http://jintai420.github.io/blog/2014/02/27/01/"/>
-    <updated>2014-02-27T14:38:25+07:00</updated>
-    <id>http://jintai420.github.io/blog/2014/02/27/01</id>
-    <content type="html"><![CDATA[<p>ハービー・ペニックさんのグリーンゴルフブックを読んでいた時に「一発屋」というタイトルで日記をつける習慣が大事だという事を書いていた章があった。なるほど、昔はバカにして読み飛ばしていたけど、今の自分なら納得できる内容だ。結局は、若い時の自分は勝ちに向かう姿勢が弱かったのだろうと思う。</p>
-
-<p>前の仕事でうつモードに突入した時にカウンセラーの人から「毎日、日記をつけなさい」という指示をもらったことがある。僕は基本的に三日坊主だ。やらないといけない事でさえ、必要性に駆られないとやらないくらいのレベルのマダオっぷりだ。ハマればかなりの凝り性になるんだけど・・・。良くも悪くもバランスが悪いタイプの典型だと思う。プログラマの師匠には「NARDタイプだね」ってこの前、断言されたし。</p>
-
-<p>まあ、それは置いておいて、日記をつける有効性というのは「習慣の中に潜んでいるパターンを見極めるため」だとカウンセラーの先生もペニックさんも説いている。なるほど、確かに仰るとおりだ。仮に僕が毎日、勝つか負けるかの勝負を行わないような生活をしていたなら、絶対につけてると思う（実はたまにこっそり日記をつけているが）。</p>
-
-<p>勝負事においては、体調にはかなり気を使わないとダメだと個人的には思っている。単純な例えでいうと、麻雀がよく打てる日と打てない日を比較すると後者の場合は確実に体調が良くないか、芳しくないケースがほとんど。気力が充実してないと、集中力も発揮できないので、モロにその日の成績に影響する（僕の打ち方が読みに比重をおいているため、集中力を使うのも原因の一つだが）。なので、コンディションを整えるヒントを掴む上で、日記をつけるのはかなり大事なのではないかなーと思った。</p>
-
-<p>僕の場合は、まずお酒と睡眠がモロに体調にでる。前日に深酒した場合は、確実に翌日に影響がでている。二日酔いになってなくても、なんかダメ。あとは睡眠。やっぱりベストコンディションを整えるには８時間は欲しい。運動とかもそれなりに大事かも？僕の場合は、ティラピスとか気功をやるとかなり集中力に違いが出る。<del>なんか急に胡散臭い単語がでてきたのは気にしないでください。</del>とまあ、こんな具合にザックリでもいいから、自分のコンディションに影響を与える因子を知っておくと、大事なシーンの前にはけっこう役立ちます。僕はかなり緊張しやすい性格なので、それなりに対抗策をいろいろ試したり、考えたりしましたし。</p>
-
-<p>まあ、ふつーに会社努めの人には、あんまり関係なかったかも？</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[相手のメモを取る（キャラ読み）]]></title>
-    <link href="http://jintai420.github.io/blog/2014/02/26/01/"/>
-    <updated>2014-02-26T20:50:39+07:00</updated>
-    <id>http://jintai420.github.io/blog/2014/02/26/01</id>
-    <content type="html"><![CDATA[<p>ポーカーを勉強している時にとある<a href="http://www.pokersense.jp/poker-strategy/players-memo/">サイト</a>でメモを取ることの重要性を見て、なるほどなーと関心した。</p>
-
-<p>基本的に身内で打つ場合って、見知らぬおっちゃんと打つときに比べて、緊張感がない状態になってる事が多いけど、その中でも勝っていきたいと思うなら、こういうメモを取るという行為はかなり重要だよなあと思った。</p>
-
-<p>ポーカーにしろ、麻雀にしろ、不完全情報ゲームなのだから、使える情報は１つでも多い方がよい。それを考えると、相手の癖とかキャラのメモを取っていなかったのは怠慢だったなあと思う。</p>
+<p><a href="http://www.cardschat.com/poker-odds-calculator.php">Poker Odds Calucuator</a></p>
 ]]></content>
   </entry>
   

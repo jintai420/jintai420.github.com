@@ -7,7 +7,7 @@
 
 	<meta name="author" content="jintai420">
 
-<meta name="description" content="一貫性を保てという言葉、麻雀を打っていると１回は聞いたことがあると思います。一貫性を保っていい目標というのは本来１つだけで、「将来的に自分の順位を上げるために最適な行動をとる」という一点のみです。これ以外は状況に応じてコロコロ変わるものだと思っていい。 局がスタートした最初のテーマは？ &hellip;"> <meta name="keywords" content="">
+<meta name="description" content="頭の候補をどちらに残すか決める。これは大事なポイントだと思ってます。 ６ｐ切り。北を切ればタンヤオの目が残るけど、リャンカン残してリーチにいく要素を減らしたいので、６ｐを１枚浮かせる。狙いは５７ｐ引き ２ｐを引いてしまので、リャンカンを優先。先に５７ｐ辺りを引いていたら、 &hellip;"> <meta name="keywords" content="">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
@@ -48,6 +48,116 @@
 </header>
 
 	<div id="content" class="inner">
+
+
+    <article class="post">
+	<header>
+		<h2 class="title">
+			
+			<a href="/blog/2014/02/15/01/">
+			
+				手組の手順１</a>
+		</h2>
+		<div class="meta date">
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-02-15T13:00:36+07:00" pubdate data-updated="true">Feb 15<span>th</span>, 2014</time></div>
+	</header>
+	<div class="entry-content">
+		<p>頭の候補をどちらに残すか決める。これは大事なポイントだと思ってます。</p>
+
+<p><a href="/images/2014021302gm-0061-0000-1e3e1aef&tw=2&ts=4.jpg" target="_blank">
+<img src="/images/2014021302gm-0061-0000-1e3e1aef&tw=2&ts=4.jpg" alt="" width=500 height=350></p>
+
+<p>６ｐ切り。北を切ればタンヤオの目が残るけど、リャンカン残してリーチにいく要素を減らしたいので、６ｐを１枚浮かせる。狙いは５７ｐ引き</p>
+
+<p><a href="/images/2014021302gm-0061-0000-1e3e1aef&tw=2&ts=42.jpg" target="_blank">
+<img src="/images/2014021302gm-0061-0000-1e3e1aef&tw=2&ts=42.jpg" alt="" width=500 height=350></p>
+
+<p>２ｐを引いてしまので、リャンカンを優先。先に５７ｐ辺りを引いていたら、一旦９ｍ切って様子を見ます。</p>
+
+<p><a href="/images/2014021302gm-0061-0000-1e3e1aef&tw=2&ts=43.jpg" target="_blank">
+<img src="/images/2014021302gm-0061-0000-1e3e1aef&tw=2&ts=43.jpg" alt="" width=500 height=350></p>
+
+<p>結果的に一番いい所が入りました。１−４ｍが先に入った場合、この状況ならリーチしません。点数を持っている状況だと、加点を狙うために犯す失点のリスクが大きくなるので。</p>
+
+		
+		
+	</div>
+
+</article>
+
+
+    <article class="post">
+	<header>
+		<h2 class="title">
+			
+			<a href="/blog/2014/02/14/05/">
+			
+				How to Slove the Problem About VMware Easy Install</a>
+		</h2>
+		<div class="meta date">
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-02-14T17:04:16+07:00" pubdate data-updated="true">Feb 14<span>th</span>, 2014</time></div>
+	</header>
+	<div class="entry-content">
+		<p>When I tried to install Ubuntu 12.04 on Vware Fusion, met the problem, which is that VMware said the below text.</p>
+
+<blockquote><p>vmware easy install</p>
+
+<p>please wait! vmware tools is currently being installed on your system. depending on
+the version of ubuntu you are installing. you may login in below and use the system during the installation. otherwise, please wait for the graphical environment to lanuch.</p>
+
+<p>Thank you.</p></blockquote>
+
+<p>Then, I found the way to solve this problem.
+I write down as memo below.</p>
+
+<ol>
+<li><p>Login by typing youer username and password.</p></li>
+<li><p>Restore three files which names are &ldquo;/etc/issue&rdquo;, &ldquo;/etc/rc.local&rdquo; ,&ldquo;/etc/init/lightdm.conf&rdquo;. Just type below commans.</p></li>
+</ol>
+
+
+<p><code><br>
+sudo mv /etc/issue.backup /etc/issue<br>
+sudo mv /etc/rc.local.backup /etc/rc.local<br>
+sudo mv /opt/vmware-tools-installer/lightdm.conf /etc/init<br>
+sudo reboot
+</code></p>
+
+<p>After reboot, my Ubuntu is availavle.</p>
+
+<p>↓ References</p>
+
+<p><a href="http://askubuntu.com/questions/285305/ubuntu-12-10-vmware-tools-installing-takes-for-ever">ubuntu 12.10 vmware tools installing takes for ever</a></p>
+
+<p><a href="http://askubuntu.com/questions/126229/12-04-stuck-at-vmware-easy-install">12.04 Stuck at &lsquo;VMware easy install</a></p>
+
+		
+		
+	</div>
+
+</article>
 
 
     <article class="post">
@@ -421,104 +531,6 @@
 <p>↓元リンク</p>
 
 <p><a href="http://www.mod.go.jp/msdf/formal/family/recipe/menu/today/index.html">海上自衛隊のレシピページ</a></p>
-
-		
-		
-	</div>
-
-</article>
-
-
-    <article class="post">
-	<header>
-		<h2 class="title">
-			
-			<a href="/blog/2014/01/21/title1/">
-			
-				恐怖のいちごミルクうどん</a>
-		</h2>
-		<div class="meta date">
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-01-21T08:13:00+07:00" pubdate data-updated="true">Jan 21<span>st</span>, 2014</time></div>
-	</header>
-	<div class="entry-content">
-		<p>最近、２ｃｈにある「嫁のメシがまずい」というまとめをよく読んでいるんだけど、何やら<strong>いちごミルクうどん</strong>という不可解な単語を見かけたので、ちょっと調べてみた。</p>
-
-<blockquote><p>てめえ俺の嫁のメシのうまさ知ってんのか、って言いそうになった時、<p>
-「お前はマンゴー入りのカレーを食ったことがあるか？<p>
-　お前はいちごミルク煮込みうどんを食ったことがあるか？<p>
-　お前はジャムと刺身の入ったオムレツを食ったことがあるか？」<p>
-ってすごい勢いで先輩が同僚に食って掛かった。</p></blockquote>
-
-<p>↓引用元</p>
-
-<p><a href="http://mashimaz.blog95.fc2.com/blog-entry-2026.html#more">先輩が同僚に食って掛かった</a></p>
-
-<p>で、さっそく動画を見つけたんだけど…、これは食べ物じゃなくて凶器だと思う。</p>
-
-<p>↓動画はこちら</p>
-
-<iframe width="420" height="315" src="//www.youtube.com/embed/Gl_pt1-SACA" frameborder="0" allowfullscreen></iframe>
-
-
-<p>なにこれこわい</p>
-
-		
-		
-	</div>
-
-</article>
-
-
-    <article class="post">
-	<header>
-		<h2 class="title">
-			
-			<a href="/blog/2014/01/20/title2/">
-			
-				ターミナル設定めも</a>
-		</h2>
-		<div class="meta date">
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-01-20T14:29:31+07:00" pubdate data-updated="true">Jan 20<span>th</span>, 2014</time></div>
-	</header>
-	<div class="entry-content">
-		<p>ターミナルでlsコマンドを打った時、Linuxみたいにフォルダやファイルごとに色がつくようにしてみた。</p>
-
-<p>↓結果はこちら
-<img src="/images/terminal01.png" alt="terminal01" /></p>
-
-<p>やり方は、ホームにある<strong>.bash-profile(PATH: ~/.bash_profile)</strong>に以下の文を追加するだけ</p>
-
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>export CLICOLOR=1
-</span><span class='line'>export LSCOLORS=ExFxCxDxBxegedabagacad</span></code></pre></td></tr></table></div></figure>
-
-
-<h1>参照URL</h1>
-
-<p><a href="http://cafe-d.net/2011/10/-linux.html">マックでターミナルのテキスト色をLinux風に変更</a></p>
 
 		
 		

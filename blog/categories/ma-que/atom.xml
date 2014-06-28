@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 麻雀 | E & J]]></title>
   <link href="http://jintai420.github.io/blog/categories/ma-que/atom.xml" rel="self"/>
   <link href="http://jintai420.github.io/"/>
-  <updated>2014-04-20T07:50:13+07:00</updated>
+  <updated>2014-06-28T07:48:13+07:00</updated>
   <id>http://jintai420.github.io/</id>
   <author>
     <name><![CDATA[jintai420]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[４つの軸]]></title>
+    <link href="http://jintai420.github.io/blog/2014/06/28/01/"/>
+    <updated>2014-06-28T07:14:00+07:00</updated>
+    <id>http://jintai420.github.io/blog/2014/06/28/01</id>
+    <content type="html"><![CDATA[<p>超久しぶりの更新になります。
+放置してると、本当に放置し続けるのね、ブログって・・・。</p>
+
+<p>これからはだいたい雑記というか、思いつきを書くことになると思います。今までと変わらんではないか！という意見もありそうですけど、まあそう言われる分には仕方ないかなと。結局、ブログってどこまで行っても趣味の延長線上にしかないわけで。</p>
+
+<p>それはそうとして、<strong>４つの軸</strong>というタイトル通り。麻雀における４つの軸をつらつらと書いていきますね。
+軸とは・・・麻雀のスタイルを構成する要素と僕は考えています。リスト化してみると、下の通りですね。</p>
+
+<ol>
+<li>リーチ率</li>
+<li>フーロー率</li>
+<li>あがり率</li>
+<li>放銃率</li>
+</ol>
+
+
+<p>この４つを環境・ルールにあわせて適度に調整することが、特定の場で勝つことに繋がることになります。</p>
+
+<p>また、この４つの軸はお互いに密接に関係しています。
+例えば、リーチ率とフーロー率を増やすと、あがり率が上昇して、放銃率ともにあがります。あがりに向かう分、放銃する可能性もあがるわけです。もっと言えば、あがり素点を高めに設定すれば、あがり率は減る。逆に素点を低めに設定すれば、あがり率は増える。</p>
+
+<p>当たり前じゃん！という内容を書いてますけど、これを場に適応させていかないと勝ち切れない。逆に言えば、リーチ率、フーロー率、あがり素点を適度に調整するために、自分の中に感覚の基軸を作っておかないといけない。例えば、<strong>天鳳ルールで自分の勝率が一番高いリーチ率とフーロー率のバランスは？</strong>とか。この辺りの感覚を身に付けるには、データを取って逐次チェックするしかないです。数値化できるっていうのは結構便利で、とくに基準を設定するというときには大いに役立ちます。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[打ち筋のチェックポイント]]></title>
@@ -214,73 +244,6 @@
 相手のあがりまでの距離を短くしたいなら切るべきだし、逆なら切らない。</p>
 
 <p>核となる考え方はこんなものかな。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[フォームの変化]]></title>
-    <link href="http://jintai420.github.io/blog/2014/03/29/01/"/>
-    <updated>2014-03-29T07:00:06+07:00</updated>
-    <id>http://jintai420.github.io/blog/2014/03/29/01</id>
-    <content type="html"><![CDATA[<p>最近、麻雀のフォームが変化してきたので、メモ代わりに自分の打ち筋を残しておこうと思う。<br/>
-日記みたいなものだと思えばいいかな？</p>
-
-<p><a href="http://tenhou.net/0/?log=2014032623gm-0029-0000-xb887ca61e1da&amp;tw=1">牌譜はこれ</a></p>
-
-<p><a href="http://jintai420.github.io/images/2014032623gm-0029-0000-xb887ca61e1da&tw=1&ts=2.jpg" target="blank"><img src="http://jintai420.github.io/images/2014032623gm-0029-0000-xb887ca61e1da&tw=1&ts=2.jpg" alt="gazo01" width=500 height=350></p>
-
-<h4>東２−１</h4>
-
-<p>降りるべきシーンに見えるけど、場にピンズが高いことから、下家の手は本手でない可能性の方が高い。あっても３９００の妙な待ちがいいところと読んだので、降りる手ではない＋打っても読みを確認できるという２つの理由から５ｐ切り。結果は２０００点のホンイツのみだったので、ピントはあっているという確認ができた。</p>
-
-<br>
-
-
-<p><a href="http://jintai420.github.io/images/2014032623gm-0029-0000-xb887ca61e1da&tw=1&ts=5.jpg" target="blank"><img src="http://jintai420.github.io/images/2014032623gm-0029-0000-xb887ca61e1da&tw=1&ts=5.jpg" alt="gazo02" width=500 height=350></p>
-
-<h4>東４−１</h4>
-
-<p>痛恨のミス∑(ﾟдﾟlll)。これはやってしまった一打。降りるにしても現物か１ｓから切るべき。結果的にこの放銃がトップ逃しの決定打になってしまう。</p>
-
-<br>
-
-
-<p><a href="http://jintai420.github.io/images/2014032623gm-0029-0000-xb887ca61e1da&tw=1&ts=6.jpg" target="blank"><img src="http://jintai420.github.io/images/2014032623gm-0029-0000-xb887ca61e1da&tw=1&ts=6.jpg" alt="gazo02" width=500 height=350></p>
-
-<h4>東４−２</h4>
-
-<p>即リーしたけど、そこまで乗り気じゃない感じ。６ｍは周りに使い切られる形になっている可能性が高い＋９ｍは山に２枚くらいだと読んでいた。このリーチで一番良い受けは、中と７ｐのシャンポン待ちがベストのはず。結果は流局。</p>
-
-<br>
-
-
-<p><a href="http://jintai420.github.io/images/2014032623gm-0029-0000-xb887ca61e1da&tw=1&ts=8.jpg" target="blank"><img src="http://jintai420.github.io/images/2014032623gm-0029-0000-xb887ca61e1da&tw=1&ts=8.jpg" alt="gazo02" width=500 height=350></p>
-
-<h5>南２−０</h5>
-
-<p>この局で一番うまく打ててたと思う。下家の白のラグと状況から、対面が白をトイツで持っている可能性が高いと見て、トイツ落としを狙いに焦点を定めて白単騎でリーチ。狙い通り、白で一発であがりきることに成功。</p>
-
-<br>
-
-
-<p><a href="http://jintai420.github.io/images/2014032623gm-0029-0000-xb887ca61e1da&tw=1&ts=12.jpg" target="blank"><img src="http://jintai420.github.io/images/2014032623gm-0029-0000-xb887ca61e1da&tw=1&ts=12.jpg" alt="gazo02" width=500 height=350></p>
-
-<h4>南３−４</h4>
-
-<p>ダマに構える。上家以外は３−６ｓを使いきれる形が手にありそう＋３ｓがほぼ無い状況から、リーチしてもあがりは薄いと判断。対面からの直撃が理想だけど、それはあくまで理想。結果は下家からロンで、次局のオーラスへ。</p>
-
-<br>
-
-
-<p><a href="http://jintai420.github.io/images/2014032623gm-0029-0000-xb887ca61e1da&tw=1&ts=13.jpg" target="blank"><img src="http://jintai420.github.io/images/2014032623gm-0029-0000-xb887ca61e1da&tw=1&ts=13.jpg" alt="gazo02" width=500 height=350></p>
-
-<h4>南４−０</h4>
-
-<p>下家が２ｍ一枚もってそうだけど、対面が掴めば出る牌＋山にもありそうなので、悪くないと判断してリーチ。結果はあがれず・・・。最終的に東４−１の放銃が最後まで響いた形となってしまった。</p>
-
-<h4>まとめ</h4>
-
-<p>フォーム変更してからは相手のキャラや動向、場の動きなどを加味しながら打っているので、前のフォームと比べると扱う情報量がかなり増えている。そのため、処理が完全にできずに打牌がブレることがあるが、これは慣れの範囲だと思う。あと、山読みも相手の手牌を加味して読むことが大事だと気がついた。ここは噛み合わせというか、麻雀の面白いところで、相手が使いやすい牌は相手に吸収されてしまう。結果的に、相手に吸収されやすい牌はあがり枚数としてカウントすることが難しいので、その辺りも加味して山読みの判断材料にできればなーと考えている。</p>
 ]]></content>
   </entry>
   
